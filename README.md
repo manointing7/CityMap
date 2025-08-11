@@ -1,10 +1,37 @@
-# TencentMap
-腾讯地图三级城市数据
-JSON格式和SQL文件，适合作为三级联动等情况，2020年1月份根据腾讯地图API获取到的数据。
 
+```
+CityMap
 
-# AMap
-高德地图三级城市数据
-SQL文件，适合作为三级联动等情况，2021年5月份根据高德地图API获取到的数据。
+CityMap is an AI-powered multi-service platform combining ride-hailing, AI co-pilot navigation, food delivery (CityEats), and courier services (CityDispatch).
 
-有问题提交issues
+Features
+
+- Real-time ride booking and tracking
+- AI assistant providing live traffic updates and route guidance
+- Food discovery and ordering through CityEats
+- Package delivery and dispatch through CityDispatch
+
+Tech Stack
+
+- Frontend: React (Vite)
+- Backend: Node.js + Express
+- Database: MongoDB Atlas
+- Maps & Navigation: Google Maps API
+- AI Assistant: OpenAI API
+
+Setup
+
+1. Clone the repo  
+2. Install dependencies in `/client` and `/server`  
+3. Configure environment variables (e.g., API keys, DB URI)  
+4. Run frontend and backend servers locally  
+
+Contribution
+
+Feel free to open issues or submit pull requests!
+
+---
+
+Made with ❤️ by [Your Name]
+```
+
